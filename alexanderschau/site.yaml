@@ -1,0 +1,8 @@
+site:
+  title: Website
+  groups:
+    - title: Sites
+      items:
+        - title: Home
+          icon: "https://icons.gebootstrap.com/assets/icons/house.svg"
+          link: "https://alexanderschau.com/"

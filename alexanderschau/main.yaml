@@ -1,0 +1,23 @@
+site:
+  title: Alexander Schau
+  root: true
+  groups:
+    - title: Pinned
+      items:
+        - title: Website
+          icon: "https://icons.getbootstrap.com/assets/icons/globe.svg"
+          site: ./site.yaml
+    - title: Social Links
+      items:
+        - title: GitHub
+          icon: "https://icons.getbootstrap.com/assets/icons/github.svg"
+          link: "https://github.com/alexanderschau"
+        - title: Twitter
+          icon: "https://icons.getbootstrap.com/assets/icons/twitter.svg"
+          link: "https://twitter.com/alexanderschau"
+        - title: Dev.to
+          icon: "https://icons.getbootstrap.com/assets/icons/pen.svg"
+          link: "https://dev.to/alexanderschau"
+        - title: Unsplash
+          icon: "https://unsplash.com/safari-pinned-tab.svg"
+          link: "https://unsplash.com/@alexanderschau"
