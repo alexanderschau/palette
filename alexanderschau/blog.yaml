@@ -1,0 +1,11 @@
+site:
+  title: Blog
+  groups:
+    - title: Posts
+      items:
+        - title: How I built a COVID-19 newsletter with n8n
+          icon: "https://icons.getbootstrap.com/assets/icons/journal.svg"
+          link: "https://alexanderschau.com/blog/covid-19-newsletter-n8n"
+        - title: Secure JSON Web Token with Unique Browser IDs
+          icon: "https://icons.getbootstrap.com/assets/icons/journal.svg"
+          link: "https://alexanderschau.com/blog/json-web-token-unique-browser-id"
