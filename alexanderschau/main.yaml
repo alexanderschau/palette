@@ -2,11 +2,20 @@ site:
   title: Alexander Schau
   root: true
   groups:
-    - title: Pinned
+    - title: Sites
       items:
-        - title: Website
-          icon: "https://icons.getbootstrap.com/assets/icons/globe.svg"
-          site: ./site.yaml
+        - title: Home
+          icon: "https://icons.getbootstrap.com/assets/icons/house.svg"
+          link: "https://alexanderschau.com/"
+        - title: Projects
+          icon: "https://icons.getbootstrap.com/assets/icons/kanban.svg"
+          link: "https://alexanderschau.com/projects"
+        - title: Blog
+          icon: "https://icons.getbootstrap.com/assets/icons/book.svg"
+          site: ./blog.yaml
+        - title: Imprint
+          icon: "https://icons.getbootstrap.com/assets/icons/file-text.svg"
+          link: "https://alexanderschau.com/imprint"
     - title: Social Links
       items:
         - title: GitHub
